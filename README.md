@@ -5,13 +5,8 @@ Bu, interneti daha güvenli bir alan haline getirme çabasında önemli bir adı
 
 Katkılarınızı bekliyorum; ister yeni domain ekleyerek, ister mevcut bilgileri güncelleyerek, interneti daha güvenli bir yer yapmamıza yardımcı olabilirsiniz.
 
-Hızlı Kullanımı: Tarayıcını içiz uBlock Origin eklentisini yükleyin. Ayarlardan uBlock Origin filter set e domain listelerini aktarın.
+Hızlı Kullanımı: Tarayıcını içiz **uBlock Origin** eklentisini yükleyin. Ayarlardan uBlock Origin filter set e domain listelerini aktarın.
 işte bu kadar!
-
-<img src="https://raw.githubusercontent.com/blocklistproject/Lists/master/img/logo.webp" height="150px"/>  
-
-# The Block List Project
-
 &nbsp;
 
 # Details:
@@ -34,11 +29,10 @@ Bu listeler, projenin kurucusunun neyin engellendiği konusunda biraz daha kontr
 <details>
     <summary>Using with <a href="https://adguard.com/en/adguard-home/overview.html">AdGuard Home</a>:</summary>
 
-## AdGuard instructions:
-
-1. Copy the link to the AdGuard format for the desired list (from the appropriate table below).
-2. Add the URL to you AdGuard's block list (**Login** > **Filters** > **DNS Blocklists** > **Add blocklist** > **Add a custom list** > **Enter Name** > **Paste copied link URL**)
-3. List is automatically enabled and ready to start blocking.
+## AdGuard talimatları:
+ 1. Bağlantıyı istediğiniz liste için AdGuard formatına kopyalayın (aşağıdaki uygun tablodan).
+ 2. URL'yi AdGuard'ın engellenenler listesine ekleyin (**Giriş** > **Filtreler** > **DNS Engellenenler** > **Engellenenler listesi ekle** > **Özel bir liste ekle** > **Ad Girin ** > **Kopyalanan bağlantı URL'sini yapıştırın**)
+ 3. Liste otomatik olarak etkinleştirilir ve engellemeye başlamaya hazırdır.
 
 &nbsp;
 <sup>Instructions are current as of AdGuard Home version 0.106.3</sup>
